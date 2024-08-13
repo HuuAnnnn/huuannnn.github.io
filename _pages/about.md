@@ -29,8 +29,10 @@ Publications
 
 What news!
 ------
-+ **April 15th, 2024**: The paper has been accepted for presentation at "The 13th Conference on Information Technology and Its Application" in Hoi An, Da Nang, Vietnam.
++ **July 20th, 2024**: Attending "The 13th Conference on Information Technology and Its Application" in Hoi An, Da Nang, Vietnam.
++ **August 9th, 2024**: Attending "The 17th Fundamental And Applied IT Research 2024" in Hanoi, Vietnam
 
 Conference
 ------
-+ International Conference: [CITA](https://cita.vku.udn.vn/2024) (2024)
++ International Conference: [CITA - The 13th Conference on Information Technology and Its Application 2024](https://cita.vku.udn.vn/2024) (2024)
++ National Conference: [FAIR - The 17th Fundamental And Applied IT Research 2024](https://fair.conf.vn/)
